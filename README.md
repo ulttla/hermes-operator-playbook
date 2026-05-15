@@ -12,6 +12,10 @@ This playbook is a companion to [`openclaw-operator-playbook`](https://github.co
 - [gun-wiki shared brain](docs/03-gun-wiki-shared-brain.md)
 - [Skills and reusable workflows](docs/04-skills-and-reusable-workflows.md)
 - [Redaction and safety](docs/05-redaction-and-safety.md)
+- [Multi-model review](docs/07-multi-model-review.md)
+- [Release self-check](docs/08-release-self-check.md)
+- [Update investigation](docs/09-update-investigation.md)
+- [Context reset pattern](docs/10-context-reset-pattern.md)
 
 ## Boundary
 
