@@ -27,3 +27,23 @@ Local skills can be valuable public artifacts, but only after they are rewritten
 5. add an approval boundary section
 6. run a redaction scan
 7. review the public version as if a stranger will copy it
+
+## Review gates
+
+Before publishing, answer these checks:
+
+- **Can a reader copy this safely?** If not, add setup assumptions or a warning.
+- **Does the doc include a read-only first step?** If not, add one.
+- **Are write actions separated from read actions?** If not, split the workflow.
+- **Is every credential represented as a placeholder?** If not, stop and redact.
+- **Is there a validation step?** Prefer a dry run, link check, smoke test, or explicit manual review.
+
+## Rewrite examples
+
+| Private source | Public rewrite |
+| --- | --- |
+| Exact channel id | “the target operations channel” |
+| Local profile name with saved session | “an authenticated browser profile” |
+| Raw tool transcript | “summary of the observed failure and fix” |
+| One-off hotpatch | “general recovery pattern and rollback boundary” |
+| Credentialed API call | “command shape using environment variable placeholders” |
