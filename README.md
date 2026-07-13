@@ -17,6 +17,7 @@ This playbook is a companion to [`openclaw-operator-playbook`](https://github.co
 - [Update investigation](docs/09-update-investigation.md)
 - [Context reset pattern](docs/10-context-reset-pattern.md)
 - [Skill publication guide](docs/11-skill-publication-guide.md)
+- [Durable work orchestration](docs/12-durable-work-orchestration.md)
 
 ## Boundary
 
