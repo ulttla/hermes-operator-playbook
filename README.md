@@ -1,3 +1,5 @@
+Archived lab notes (Apr–Jul 2026). Current write-up: https://gunkr.com/lab
+
 # Hermes Operator Playbook
 
 A public-safe playbook for running Hermes as a complementary AI operator: recovery reviewer, personal assistant lane, research lane, and Hermes self-maintenance workspace.
