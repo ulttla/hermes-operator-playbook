@@ -4,7 +4,7 @@ Archived lab notes (Apr–Jul 2026). Current write-up: https://gunkr.com/lab
 
 A public-safe playbook for running Hermes as a complementary AI operator: recovery reviewer, personal assistant lane, research lane, and Hermes self-maintenance workspace.
 
-This playbook is a companion to [`openclaw-operator-playbook`](https://github.com/ulttla/openclaw-operator-playbook). OpenClaw remains the broad orchestration lane; Hermes is developed as a second operator with strengths of its own. Both are connected through a shared wiki-first hybrid `gun-wiki` knowledge base and human approval boundaries.
+This playbook is a companion to [`openclaw-operator-playbook`](https://github.com/gunkr-com/openclaw-operator-playbook). OpenClaw remains the broad orchestration lane; Hermes is developed as a second operator with strengths of its own. Both are connected through a shared wiki-first hybrid `gun-wiki` knowledge base and human approval boundaries.
 
 ## Start here
 
